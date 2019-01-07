@@ -1,5 +1,5 @@
 # CRNN(CNN+RNN+CTCLoss)
-Text recognition
+Text recognition---但是原作者没有提供 训练数据集
 
 
 
