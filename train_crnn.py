@@ -155,5 +155,5 @@ class Train_CRNN(object):
 
 
 if __name__ == "__main__":
-    train = Train_CRNN(pre_train=True)
+    train = Train_CRNN(pre_train=False) # True)
     train.train()
